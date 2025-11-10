@@ -1,0 +1,5 @@
+//a[text()="🥔 Potatoz"] - potatoz button
+//h2[text()="News"] - news button
+//div[text()="Trending"] - trending
+//div[text()="Old Meme"] - Old Meme
+//header/a[@data-position="1"]/h2 - Prima Postare
